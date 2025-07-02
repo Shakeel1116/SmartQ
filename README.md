@@ -126,6 +126,8 @@ Google login requires valid OAuth client credentials
 📸 Screenshots
 Add your screenshots or UI previews here (e.g., Login Page, Dashboard, Booking UI)
 ![Screenshot 2025-07-02 171247](https://github.com/user-attachments/assets/358c8ef1-8ea1-4e20-9cfd-b34b44955832)
+![image](https://github.com/user-attachments/assets/f79d024f-622e-43e3-8c87-c910eeafcf5e)
+
 ![Screenshot 2025-07-02 171259](https://github.com/user-attachments/assets/86bc02e4-2898-405e-86fb-51aa2dad631d)
 ![Screenshot 2025-07-02 171309](https://github.com/user-attachments/assets/99e7f981-05a1-475d-b144-5b94fc407e5d)
 ![Screenshot 2025-07-02 171329](https://github.com/user-attachments/assets/7681aa4b-48ca-423b-b3f5-5d207b6fd6b1)
