@@ -1,0 +1,12 @@
+/* index.css or App.css */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  width: 100%;
+  background-color: #f3f4f6; /* Light mode (gray-100) */
+}
+
+.dark body {
+  background-color: #111827; /* Dark mode (gray-900) */
+}

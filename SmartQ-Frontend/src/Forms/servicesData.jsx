@@ -1,0 +1,17 @@
+export const serviceTypes = [
+  "clinic",
+  "salon",
+  "repair",
+  "coaching",
+  "photography",
+  "event",
+  "driving",
+  "cleaning",
+  "pet",
+  "legal",
+  "car",
+  "decor",
+  "music",
+  "yoga",
+  "therapy",
+];
